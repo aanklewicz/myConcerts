@@ -1,0 +1,1966 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 415,
+   "setlist" : [ {
+      "id" : "73566619",
+      "versionId" : "g2bb948e2",
+      "eventDate" : "08-06-2024",
+      "lastUpdated" : "2024-06-09T15:30:29.459+0000",
+      "artist" : {
+         "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+         "name" : "Sloan",
+         "sortName" : "Sloan",
+         "disambiguation" : "Canadian power pop band",
+         "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+      },
+      "venue" : {
+         "id" : "bd0cdba",
+         "name" : "Legacy Hall",
+         "city" : {
+            "id" : "5978765",
+            "name" : "Huntsville",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 45.333407614,
+               "long" : -79.216320106
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/legacy-hall-huntsville-on-canada-bd0cdba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "If It Feels Good Do It"
+            }, {
+               "name" : "Penpals"
+            }, {
+               "name" : "Dream It All Over Again"
+            }, {
+               "name" : "Scratch the Surface"
+            }, {
+               "name" : "Coax Me"
+            }, {
+               "name" : "Everything You've Done Wrong"
+            }, {
+               "name" : "Who Taught You to Live Like That?"
+            }, {
+               "name" : "Ready for You"
+            }, {
+               "name" : "Money City Maniacs"
+            }, {
+               "name" : "500 Up"
+            }, {
+               "name" : "Sensory Deprivation"
+            }, {
+               "name" : "I Hate My Generation"
+            }, {
+               "name" : "Losing California"
+            }, {
+               "name" : "The Other Man"
+            }, {
+               "name" : "The Lines You Amend"
+            }, {
+               "name" : "The Rest of My Life"
+            }, {
+               "name" : "The Good in Everyone"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Deeper Than Beauty"
+            }, {
+               "name" : "I Can Feel It"
+            }, {
+               "name" : "Underwhelmed"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sloan/2024/legacy-hall-huntsville-on-canada-73566619.html"
+   }, {
+      "id" : "73a852c9",
+      "versionId" : "g73bdfee1",
+      "eventDate" : "29-04-2024",
+      "lastUpdated" : "2024-04-30T20:35:16.164+0000",
+      "artist" : {
+         "mbid" : "eda7da10-0b65-41df-ac36-9c83b7017f7a",
+         "name" : "The Weather Station",
+         "sortName" : "Weather Station, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-weather-station-63d28ab3.html"
+      },
+      "venue" : {
+         "id" : "1bd0e190",
+         "name" : "History",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/history-toronto-on-canada-1bd0e190.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "info" : "New song"
+            }, {
+               "name" : "Tried to Tell You"
+            }, {
+               "name" : "Atlantic"
+            }, {
+               "name" : "",
+               "info" : "New song"
+            }, {
+               "name" : "Robber"
+            }, {
+               "name" : "Parking Lot"
+            }, {
+               "name" : "Subdivisions"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-weather-station/2024/history-toronto-on-canada-73a852c9.html"
+   }, {
+      "id" : "13a8ed75",
+      "versionId" : "g3bd8543",
+      "eventDate" : "29-04-2024",
+      "lastUpdated" : "2024-04-30T11:44:05.337+0000",
+      "artist" : {
+         "mbid" : "e5c7b94f-e264-473c-bb0f-37c85d4d5c70",
+         "name" : "Belle and Sebastian",
+         "sortName" : "Belle and Sebastian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/belle-and-sebastian-7bd6f25c.html"
+      },
+      "venue" : {
+         "id" : "1bd0e190",
+         "name" : "History",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/history-toronto-on-canada-1bd0e190.html"
+      },
+      "tour" : {
+         "name" : "Spring 2024 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nobody's Empire"
+            }, {
+               "name" : "Allie"
+            }, {
+               "name" : "So in the Moment"
+            }, {
+               "name" : "She's Losing It"
+            }, {
+               "name" : "Give a Little Time"
+            }, {
+               "name" : "Like Dylan in the Movies"
+            }, {
+               "name" : "Sukie in the Graveyard"
+            }, {
+               "name" : "Piazza, New York Catcher"
+            }, {
+               "name" : "Young and Stupid"
+            }, {
+               "name" : "To Be Myself Completely"
+            }, {
+               "name" : "The Fox in the Snow"
+            }, {
+               "name" : "Funny Little Frog"
+            }, {
+               "name" : "A Summer Wasting"
+            }, {
+               "name" : "The Boy With the Arab Strap"
+            }, {
+               "name" : "Dear Catastrophe Waitress"
+            }, {
+               "name" : "I Didn't See It Coming"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "If You're Feeling Sinister",
+               "info" : "crowd request"
+            }, {
+               "name" : "Your Cover's Blown"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/belle-and-sebastian/2024/history-toronto-on-canada-13a8ed75.html"
+   }, {
+      "id" : "63a10e6b",
+      "versionId" : "g4b8e17a6",
+      "eventDate" : "16-11-2023",
+      "lastUpdated" : "2023-11-17T03:18:48.225+0000",
+      "artist" : {
+         "mbid" : "87283514-342d-4007-ab43-aa11ba79d92a",
+         "name" : "Chris Murphy",
+         "sortName" : "Murphy, Chris",
+         "disambiguation" : "Member of the band Sloan",
+         "url" : "https://www.setlist.fm/setlists/chris-murphy-7bd6a204.html"
+      },
+      "venue" : {
+         "id" : "43d23b77",
+         "name" : "St. Paul's Centre",
+         "city" : {
+            "id" : "6094325",
+            "name" : "Orillia",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 44.616809287,
+               "long" : -79.416323517
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/st-pauls-centre-orillia-on-canada-43d23b77.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Spin Our Wheels",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "The Other Man",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Fading Into Obscurity",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "I Am the Cancer",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Autobiography",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "The Marquee and the Moon",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Your Daddy Will Do",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "G Turns to D",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Try to Make It",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Deeper Than Beauty",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Act Your Ages",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Coax Me",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "Underwhelmed",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Bells On",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            }, {
+               "name" : "The Rest of My Life",
+               "cover" : {
+                  "mbid" : "5a63c831-5bdb-444d-a9db-974501e3317d",
+                  "name" : "Sloan",
+                  "sortName" : "Sloan",
+                  "disambiguation" : "Canadian power pop band",
+                  "url" : "https://www.setlist.fm/setlists/sloan-4bd6fbaa.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chris-murphy/2023/st-pauls-centre-orillia-on-canada-63a10e6b.html"
+   }, {
+      "id" : "53b7430d",
+      "versionId" : "g73f68a6d",
+      "eventDate" : "28-05-2022",
+      "lastUpdated" : "2022-05-29T14:39:56.939+0000",
+      "artist" : {
+         "mbid" : "f03600eb-88b2-4cbc-858f-20535f03ca0c",
+         "name" : "Ringo Starr & His All Starr Band",
+         "sortName" : "Starr, Ringo & His All Starr Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ringo-starr-and-his-all-starr-band-63c6b20b.html"
+      },
+      "venue" : {
+         "id" : "2bd6d062",
+         "name" : "Casino Rama",
+         "city" : {
+            "id" : "6094325",
+            "name" : "Orillia",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 44.616809287,
+               "long" : -79.416323517
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/casino-rama-orillia-on-canada-2bd6d062.html"
+      },
+      "tour" : {
+         "name" : "15th All Star Band"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Matchbox",
+               "cover" : {
+                  "mbid" : "068bd7ab-c38e-4fae-8ed2-cb0c153ed68f",
+                  "name" : "Carl Perkins",
+                  "sortName" : "Perkins, Carl",
+                  "disambiguation" : "American pioneer of rockabilly music",
+                  "url" : "https://www.setlist.fm/setlists/carl-perkins-5bd6af10.html"
+               }
+            }, {
+               "name" : "It Don't Come Easy",
+               "cover" : {
+                  "mbid" : "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                  "name" : "Ringo Starr",
+                  "sortName" : "Starr, Ringo",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/ringo-starr-63d6aa8f.html"
+               }
+            }, {
+               "name" : "What Goes On",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Free Ride",
+               "cover" : {
+                  "mbid" : "d1c7bef2-12cb-4fe8-b9bc-3b58e3ac0c5c",
+                  "name" : "The Edgar Winter Group",
+                  "sortName" : "Winter, Edgar, Group, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-edgar-winter-group-53d6bb7d.html"
+               },
+               "with" : {
+                  "mbid" : "c927b0e2-072c-4dbd-aaf5-d92aa57841dc",
+                  "name" : "Edgar Winter",
+                  "sortName" : "Winter, Edgar",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/edgar-winter-5bd6bb60.html"
+               }
+            }, {
+               "name" : "Rosanna",
+               "cover" : {
+                  "mbid" : "aab5c954-cabe-432e-899e-1c4f99757327",
+                  "name" : "Toto",
+                  "sortName" : "Toto",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/toto-bd6b5f6.html"
+               },
+               "with" : {
+                  "mbid" : "bd268536-b428-4e8f-b358-77b0622b62ff",
+                  "name" : "Steve Lukather",
+                  "sortName" : "Lukather, Steve",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/steve-lukather-53d6b359.html"
+               }
+            }, {
+               "name" : "Pick Up the Pieces",
+               "cover" : {
+                  "mbid" : "fb776bca-6139-4ff5-8d5e-5decd029cb96",
+                  "name" : "Average White Band",
+                  "sortName" : "Average White Band",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/average-white-band-23d67467.html"
+               },
+               "with" : {
+                  "mbid" : "3b106f97-02df-460c-9d5d-a7b41e933f70",
+                  "name" : "Hamish Stuart",
+                  "sortName" : "Stuart, Hamish",
+                  "disambiguation" : "Scottish guitarist, bassist, singer composer & producer",
+                  "url" : "https://www.setlist.fm/setlists/hamish-stuart-23d67457.html"
+               }
+            }, {
+               "name" : "Down Under",
+               "cover" : {
+                  "mbid" : "395cc503-63b5-4a0b-a20a-604e3fcacea2",
+                  "name" : "Men at Work",
+                  "sortName" : "Men at Work",
+                  "disambiguation" : "Australian rock band",
+                  "url" : "https://www.setlist.fm/setlists/men-at-work-63d6b6a7.html"
+               },
+               "with" : {
+                  "mbid" : "864d7069-57dc-45f6-b408-875b35106dd3",
+                  "name" : "Colin Hay",
+                  "sortName" : "Hay, Colin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/colin-hay-4bd6e37a.html"
+               }
+            }, {
+               "name" : "Boys",
+               "cover" : {
+                  "mbid" : "a8540ea0-1a74-4c22-8b70-1348a77a74a0",
+                  "name" : "The Shirelles",
+                  "sortName" : "Shirelles, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-shirelles-bd69d7a.html"
+               }
+            }, {
+               "name" : "I'm the Greatest",
+               "cover" : {
+                  "mbid" : "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                  "name" : "Ringo Starr",
+                  "sortName" : "Starr, Ringo",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/ringo-starr-63d6aa8f.html"
+               }
+            }, {
+               "name" : "Yellow Submarine",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "name" : "Solo Set",
+            "song" : [ {
+               "name" : "Cut the Cake",
+               "cover" : {
+                  "mbid" : "fb776bca-6139-4ff5-8d5e-5decd029cb96",
+                  "name" : "Average White Band",
+                  "sortName" : "Average White Band",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/average-white-band-23d67467.html"
+               },
+               "with" : {
+                  "mbid" : "3b106f97-02df-460c-9d5d-a7b41e933f70",
+                  "name" : "Hamish Stuart",
+                  "sortName" : "Stuart, Hamish",
+                  "disambiguation" : "Scottish guitarist, bassist, singer composer & producer",
+                  "url" : "https://www.setlist.fm/setlists/hamish-stuart-23d67457.html"
+               }
+            }, {
+               "name" : "Frankenstein",
+               "cover" : {
+                  "mbid" : "d1c7bef2-12cb-4fe8-b9bc-3b58e3ac0c5c",
+                  "name" : "The Edgar Winter Group",
+                  "sortName" : "Winter, Edgar, Group, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-edgar-winter-group-53d6bb7d.html"
+               },
+               "with" : {
+                  "mbid" : "c927b0e2-072c-4dbd-aaf5-d92aa57841dc",
+                  "name" : "Edgar Winter",
+                  "sortName" : "Winter, Edgar",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/edgar-winter-5bd6bb60.html"
+               }
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Octopus's Garden",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : ""
+            }, {
+               "name" : "Back Off Boogaloo",
+               "cover" : {
+                  "mbid" : "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                  "name" : "Ringo Starr",
+                  "sortName" : "Starr, Ringo",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/ringo-starr-63d6aa8f.html"
+               }
+            }, {
+               "name" : "Overkill",
+               "cover" : {
+                  "mbid" : "395cc503-63b5-4a0b-a20a-604e3fcacea2",
+                  "name" : "Men at Work",
+                  "sortName" : "Men at Work",
+                  "disambiguation" : "Australian rock band",
+                  "url" : "https://www.setlist.fm/setlists/men-at-work-63d6b6a7.html"
+               },
+               "with" : {
+                  "mbid" : "864d7069-57dc-45f6-b408-875b35106dd3",
+                  "name" : "Colin Hay",
+                  "sortName" : "Hay, Colin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/colin-hay-4bd6e37a.html"
+               }
+            }, {
+               "name" : "Africa",
+               "cover" : {
+                  "mbid" : "aab5c954-cabe-432e-899e-1c4f99757327",
+                  "name" : "Toto",
+                  "sortName" : "Toto",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/toto-bd6b5f6.html"
+               },
+               "with" : {
+                  "mbid" : "bd268536-b428-4e8f-b358-77b0622b62ff",
+                  "name" : "Steve Lukather",
+                  "sortName" : "Lukather, Steve",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/steve-lukather-53d6b359.html"
+               }
+            }, {
+               "name" : "Work to Do",
+               "cover" : {
+                  "mbid" : "4a76400d-283f-492e-9754-18ef41755f81",
+                  "name" : "The Isley Brothers",
+                  "sortName" : "Isley Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-isley-brothers-3d6b943.html"
+               },
+               "with" : {
+                  "mbid" : "3b106f97-02df-460c-9d5d-a7b41e933f70",
+                  "name" : "Hamish Stuart",
+                  "sortName" : "Stuart, Hamish",
+                  "disambiguation" : "Scottish guitarist, bassist, singer composer & producer",
+                  "url" : "https://www.setlist.fm/setlists/hamish-stuart-23d67457.html"
+               }
+            }, {
+               "name" : "I Wanna Be Your Man",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Johnny B. Goode",
+               "cover" : {
+                  "mbid" : "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+                  "name" : "Chuck Berry",
+                  "sortName" : "Berry, Chuck",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chuck-berry-63d6a2b7.html"
+               },
+               "with" : {
+                  "mbid" : "c927b0e2-072c-4dbd-aaf5-d92aa57841dc",
+                  "name" : "Edgar Winter",
+                  "sortName" : "Winter, Edgar",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/edgar-winter-5bd6bb60.html"
+               }
+            }, {
+               "name" : "Who Can It Be Now?",
+               "cover" : {
+                  "mbid" : "395cc503-63b5-4a0b-a20a-604e3fcacea2",
+                  "name" : "Men at Work",
+                  "sortName" : "Men at Work",
+                  "disambiguation" : "Australian rock band",
+                  "url" : "https://www.setlist.fm/setlists/men-at-work-63d6b6a7.html"
+               },
+               "with" : {
+                  "mbid" : "864d7069-57dc-45f6-b408-875b35106dd3",
+                  "name" : "Colin Hay",
+                  "sortName" : "Hay, Colin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/colin-hay-4bd6e37a.html"
+               }
+            }, {
+               "name" : "Hold the Line",
+               "cover" : {
+                  "mbid" : "aab5c954-cabe-432e-899e-1c4f99757327",
+                  "name" : "Toto",
+                  "sortName" : "Toto",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/toto-bd6b5f6.html"
+               },
+               "with" : {
+                  "mbid" : "bd268536-b428-4e8f-b358-77b0622b62ff",
+                  "name" : "Steve Lukather",
+                  "sortName" : "Lukather, Steve",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/steve-lukather-53d6b359.html"
+               }
+            }, {
+               "name" : "Photograph",
+               "cover" : {
+                  "mbid" : "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                  "name" : "Ringo Starr",
+                  "sortName" : "Starr, Ringo",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/ringo-starr-63d6aa8f.html"
+               }
+            }, {
+               "name" : "Act Naturally",
+               "cover" : {
+                  "mbid" : "1a54756b-abe7-4557-96c5-584f9323ea72",
+                  "name" : "Johnny Russell",
+                  "sortName" : "Russell, Johnny",
+                  "disambiguation" : "US country singer, songwriter and comedian",
+                  "url" : "https://www.setlist.fm/setlists/johnny-russell-1bdef57c.html"
+               }
+            }, {
+               "name" : "With a Little Help From My Friends",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "with 'Give Peace a Chance' by Plastic Ono Band chorus at the end"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2022/casino-rama-orillia-on-canada-53b7430d.html"
+   }, {
+      "id" : "23e3a063",
+      "versionId" : "g3c2f5bb",
+      "eventDate" : "05-10-2017",
+      "lastUpdated" : "2021-12-16T07:39:47.218+0000",
+      "artist" : {
+         "mbid" : "2ed8ecda-5bb9-4d9f-8c99-0bf9b85b3624",
+         "name" : "Graham Nash",
+         "sortName" : "Nash, Graham",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/graham-nash-4bd6bba2.html"
+      },
+      "venue" : {
+         "id" : "3bd0d01c",
+         "name" : "Rose Theatre Brampton",
+         "city" : {
+            "id" : "5907364",
+            "name" : "Brampton",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.683413485,
+               "long" : -79.766326996
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rose-theatre-brampton-brampton-on-canada-3bd0d01c.html"
+      },
+      "tour" : {
+         "name" : "This Path Tonight"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Bus Stop",
+               "cover" : {
+                  "mbid" : "88795ca5-5bef-4253-ae0e-79a5d00e0388",
+                  "name" : "Graham Gouldman",
+                  "sortName" : "Gouldman, Graham",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/graham-gouldman-53d6e3a1.html"
+               }
+            }, {
+               "name" : "King Midas in Reverse",
+               "cover" : {
+                  "mbid" : "d4305549-6b4e-4a57-b24d-8af0743fe191",
+                  "name" : "The Hollies",
+                  "sortName" : "Hollies, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-hollies-73d6be41.html"
+               }
+            }, {
+               "name" : "Wasted on the Way",
+               "cover" : {
+                  "mbid" : "cfafad90-b736-4c74-8ded-f3f4d7b2c792",
+                  "name" : "Crosby, Stills & Nash",
+                  "sortName" : "Crosby, Stills & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-and-nash-33d6f8a1.html"
+               }
+            }, {
+               "name" : "I Used to Be a King"
+            }, {
+               "name" : "Immigration Man",
+               "cover" : {
+                  "mbid" : "ed944321-63d7-4275-a272-3e856d42a7bf",
+                  "name" : "Crosby & Nash",
+                  "sortName" : "Crosby & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-and-nash-13d6dde9.html"
+               }
+            }, {
+               "name" : "Sleep Song"
+            }, {
+               "name" : "Myself at Last"
+            }, {
+               "name" : "Marrakesh Express",
+               "cover" : {
+                  "mbid" : "cfafad90-b736-4c74-8ded-f3f4d7b2c792",
+                  "name" : "Crosby, Stills & Nash",
+                  "sortName" : "Crosby, Stills & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-and-nash-33d6f8a1.html"
+               }
+            }, {
+               "name" : "Military Madness"
+            }, {
+               "name" : "Wind on the Water",
+               "cover" : {
+                  "mbid" : "ed944321-63d7-4275-a272-3e856d42a7bf",
+                  "name" : "Crosby & Nash",
+                  "sortName" : "Crosby & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-and-nash-13d6dde9.html"
+               }
+            }, {
+               "name" : "A Day in the Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Just a Song Before I Go",
+               "cover" : {
+                  "mbid" : "cfafad90-b736-4c74-8ded-f3f4d7b2c792",
+                  "name" : "Crosby, Stills & Nash",
+                  "sortName" : "Crosby, Stills & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-and-nash-33d6f8a1.html"
+               }
+            }, {
+               "name" : "Taken at All",
+               "cover" : {
+                  "mbid" : "ed944321-63d7-4275-a272-3e856d42a7bf",
+                  "name" : "Crosby & Nash",
+                  "sortName" : "Crosby & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-and-nash-13d6dde9.html"
+               }
+            }, {
+               "name" : "In Your Name"
+            }, {
+               "name" : "4 + 20",
+               "cover" : {
+                  "mbid" : "46a782ea-4308-476b-abd1-a91b197f3037",
+                  "name" : "Crosby, Stills, Nash & Young",
+                  "sortName" : "Crosby, Stills, Nash & Young",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-nash-and-young-63d6b61b.html"
+               }
+            }, {
+               "name" : "Golden Days"
+            }, {
+               "name" : "Mississippi Burning"
+            }, {
+               "name" : "Back Home"
+            }, {
+               "name" : "Cathedral",
+               "cover" : {
+                  "mbid" : "cfafad90-b736-4c74-8ded-f3f4d7b2c792",
+                  "name" : "Crosby, Stills & Nash",
+                  "sortName" : "Crosby, Stills & Nash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-and-nash-33d6f8a1.html"
+               }
+            }, {
+               "name" : "Our House",
+               "cover" : {
+                  "mbid" : "46a782ea-4308-476b-abd1-a91b197f3037",
+                  "name" : "Crosby, Stills, Nash & Young",
+                  "sortName" : "Crosby, Stills, Nash & Young",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-nash-and-young-63d6b61b.html"
+               }
+            }, {
+               "name" : "Chicago"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Blackbird",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Teach Your Children",
+               "cover" : {
+                  "mbid" : "46a782ea-4308-476b-abd1-a91b197f3037",
+                  "name" : "Crosby, Stills, Nash & Young",
+                  "sortName" : "Crosby, Stills, Nash & Young",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-nash-and-young-63d6b61b.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "\"Ohio\" was on the printed setlist as an optional song but not played eventually",
+      "url" : "https://www.setlist.fm/setlist/graham-nash/2017/rose-theatre-brampton-brampton-on-canada-23e3a063.html"
+   }, {
+      "id" : "5bac8ff4",
+      "versionId" : "g4389e38b",
+      "eventDate" : "16-09-2017",
+      "lastUpdated" : "2024-01-21T01:08:39.413+0000",
+      "artist" : {
+         "mbid" : "55dd4fb3-8283-411c-a256-fc8b18c2a3fa",
+         "name" : "By Divine Right",
+         "sortName" : "By Divine Right",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/by-divine-right-2bd798de.html"
+      },
+      "venue" : {
+         "id" : "1bd10de4",
+         "name" : "Sandbanks Amphitheatre",
+         "city" : {
+            "id" : "5920985",
+            "name" : "Cherry Valley",
+            "state" : "Prince Edward Island",
+            "stateCode" : "PE",
+            "coords" : {
+               "lat" : 46.16681,
+               "long" : -62.91537
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sandbanks-amphitheatre-cherry-valley-pe-canada-1bd10de4.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/by-divine-right/2017/sandbanks-amphitheatre-cherry-valley-pe-canada-5bac8ff4.html"
+   }, {
+      "id" : "53ac8ffd",
+      "versionId" : "g5389e3a5",
+      "eventDate" : "16-09-2017",
+      "lastUpdated" : "2024-01-21T01:06:46.159+0000",
+      "artist" : {
+         "mbid" : "d97de33b-86b6-43c3-a4a5-f5fba74a721f",
+         "name" : "The Lowest of the Low",
+         "sortName" : "Lowest of the Low, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-lowest-of-the-low-bd7c5d2.html"
+      },
+      "venue" : {
+         "id" : "1bd10de4",
+         "name" : "Sandbanks Amphitheatre",
+         "city" : {
+            "id" : "5920985",
+            "name" : "Cherry Valley",
+            "state" : "Prince Edward Island",
+            "stateCode" : "PE",
+            "coords" : {
+               "lat" : 46.16681,
+               "long" : -62.91537
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sandbanks-amphitheatre-cherry-valley-pe-canada-1bd10de4.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-lowest-of-the-low/2017/sandbanks-amphitheatre-cherry-valley-pe-canada-53ac8ffd.html"
+   }, {
+      "id" : "4bac8f16",
+      "versionId" : "g4b89e3c6",
+      "eventDate" : "16-09-2017",
+      "lastUpdated" : "2024-01-21T01:02:16.205+0000",
+      "artist" : {
+         "mbid" : "64deac19-021e-4dc1-8d11-658be8763589",
+         "name" : "Great Lake Swimmers",
+         "sortName" : "Great Lake Swimmers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/great-lake-swimmers-6bd6a692.html"
+      },
+      "venue" : {
+         "id" : "1bd10de4",
+         "name" : "Sandbanks Amphitheatre",
+         "city" : {
+            "id" : "5920985",
+            "name" : "Cherry Valley",
+            "state" : "Prince Edward Island",
+            "stateCode" : "PE",
+            "coords" : {
+               "lat" : 46.16681,
+               "long" : -62.91537
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sandbanks-amphitheatre-cherry-valley-pe-canada-1bd10de4.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/great-lake-swimmers/2017/sandbanks-amphitheatre-cherry-valley-pe-canada-4bac8f16.html"
+   }, {
+      "id" : "43ac8ff3",
+      "versionId" : "g4389e39f",
+      "eventDate" : "16-09-2017",
+      "lastUpdated" : "2024-01-21T01:07:41.560+0000",
+      "artist" : {
+         "mbid" : "19892173-8ac0-449d-b716-6860b7f8f4c9",
+         "name" : "The Inbreds",
+         "sortName" : "Inbreds, The",
+         "disambiguation" : "Canadian Indie Rock band.",
+         "url" : "https://www.setlist.fm/setlists/the-inbreds-5bd78338.html"
+      },
+      "venue" : {
+         "id" : "1bd10de4",
+         "name" : "Sandbanks Amphitheatre",
+         "city" : {
+            "id" : "5920985",
+            "name" : "Cherry Valley",
+            "state" : "Prince Edward Island",
+            "stateCode" : "PE",
+            "coords" : {
+               "lat" : 46.16681,
+               "long" : -62.91537
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sandbanks-amphitheatre-cherry-valley-pe-canada-1bd10de4.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-inbreds/2017/sandbanks-amphitheatre-cherry-valley-pe-canada-43ac8ff3.html"
+   }, {
+      "id" : "43e5ebef",
+      "versionId" : "534027a9",
+      "eventDate" : "27-07-2017",
+      "lastUpdated" : "2017-10-10T19:43:42.978+0000",
+      "artist" : {
+         "mbid" : "e5c7b94f-e264-473c-bb0f-37c85d4d5c70",
+         "name" : "Belle and Sebastian",
+         "sortName" : "Belle and Sebastian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/belle-and-sebastian-7bd6f25c.html"
+      },
+      "venue" : {
+         "id" : "6bd6caa2",
+         "name" : "Sony Centre for the Performing Arts",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sony-centre-for-the-performing-arts-toronto-on-canada-6bd6caa2.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Act of the Apostle"
+            }, {
+               "name" : "I'm a Cuckoo"
+            }, {
+               "name" : "Seeing Other People"
+            }, {
+               "name" : "The State I Am In"
+            }, {
+               "name" : "She's Losing It"
+            }, {
+               "name" : "Sweet Dew Lee"
+            }, {
+               "name" : "Allie"
+            }, {
+               "name" : "Piazza, New York Catcher"
+            }, {
+               "name" : "Little Lou, Ugly Jack, Prophet John"
+            }, {
+               "name" : "Like Dylan in the Movies"
+            }, {
+               "name" : "The Loneliness of a Middle Distance Runner"
+            }, {
+               "name" : "Play for Today"
+            }, {
+               "name" : "Dog on Wheels"
+            }, {
+               "name" : "The Boy With the Arab Strap"
+            }, {
+               "name" : "I Didn't See It Coming"
+            }, {
+               "name" : "Judy and the Dream of Horses"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Party Line"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/belle-and-sebastian/2017/sony-centre-for-the-performing-arts-toronto-on-canada-43e5ebef.html"
+   }, {
+      "id" : "13e5e155",
+      "versionId" : "7b416294",
+      "eventDate" : "27-07-2017",
+      "lastUpdated" : "2017-10-26T23:25:21.458+0000",
+      "artist" : {
+         "mbid" : "e3bda984-f349-4924-b4b8-f72478bbb3f3",
+         "name" : "Julien Baker",
+         "sortName" : "Baker, Julien",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/julien-baker-63c41eaf.html"
+      },
+      "venue" : {
+         "id" : "6bd6caa2",
+         "name" : "Sony Centre for the Performing Arts",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sony-centre-for-the-performing-arts-toronto-on-canada-6bd6caa2.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sprained Ankle"
+            }, {
+               "name" : "Blacktop"
+            }, {
+               "name" : "Everybody Does"
+            }, {
+               "name" : "Vessels"
+            }, {
+               "name" : "Red Door"
+            }, {
+               "name" : "Shadowboxing"
+            }, {
+               "name" : "Funeral Pyre"
+            }, {
+               "name" : "Rejoice"
+            }, {
+               "name" : "Something"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/julien-baker/2017/sony-centre-for-the-performing-arts-toronto-on-canada-13e5e155.html"
+   }, {
+      "id" : "13578d31",
+      "versionId" : "g2ba668ce",
+      "eventDate" : "28-04-2017",
+      "lastUpdated" : "2024-06-16T17:56:00.355+0000",
+      "artist" : {
+         "mbid" : "f95d2313-b04b-46bc-971f-cfa9387a931a",
+         "name" : "Trans-Canada Highwaymen",
+         "sortName" : "Trans-Canada Highwaymen",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trans-canada-highwaymen-53cf2341.html"
+      },
+      "venue" : {
+         "id" : "3bd0d01c",
+         "name" : "Rose Theatre Brampton",
+         "city" : {
+            "id" : "5907364",
+            "name" : "Brampton",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.683413485,
+               "long" : -79.766326996
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rose-theatre-brampton-brampton-on-canada-3bd0d01c.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trans-canada-highwaymen/2017/rose-theatre-brampton-brampton-on-canada-13578d31.html"
+   }, {
+      "id" : "23fdcc43",
+      "versionId" : "23a868bf",
+      "eventDate" : "29-09-2016",
+      "lastUpdated" : "2016-09-30T16:59:42.000+0000",
+      "artist" : {
+         "mbid" : "19892173-8ac0-449d-b716-6860b7f8f4c9",
+         "name" : "The Inbreds",
+         "sortName" : "Inbreds, The",
+         "disambiguation" : "Canadian Indie Rock band.",
+         "url" : "https://www.setlist.fm/setlists/the-inbreds-5bd78338.html"
+      },
+      "venue" : {
+         "id" : "43d47317",
+         "name" : "Gladstone Hotel",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/gladstone-hotel-toronto-on-canada-43d47317.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Matterhorn"
+            }, {
+               "name" : "Prince"
+            }, {
+               "name" : "You Will Know"
+            }, {
+               "name" : "North Window"
+            }, {
+               "name" : "Drag Us Down"
+            }, {
+               "name" : "Attitude"
+            }, {
+               "name" : "Yelverton Hill"
+            }, {
+               "name" : "Never Be"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Joe"
+            }, {
+               "name" : "Any Sense of Time"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-inbreds/2016/gladstone-hotel-toronto-on-canada-23fdcc43.html"
+   }, {
+      "id" : "13f45175",
+      "versionId" : "g43c0e7c7",
+      "eventDate" : "17-10-2015",
+      "lastUpdated" : "2022-01-28T03:34:54.919+0000",
+      "artist" : {
+         "mbid" : "ba550d0e-adac-4864-b88b-407cab5e76af",
+         "name" : "Paul McCartney",
+         "sortName" : "McCartney, Paul",
+         "disambiguation" : "The Beatles",
+         "url" : "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue" : {
+         "id" : "1bd6d918",
+         "name" : "Air Canada Centre",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/air-canada-centre-toronto-on-canada-1bd6d918.html"
+      },
+      "tour" : {
+         "name" : "Out There!"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Eight Days a Week",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Save Us"
+            }, {
+               "name" : "Got to Get You Into My Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "One After 909",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Temporary Secretary"
+            }, {
+               "name" : "Let Me Roll It",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               },
+               "info" : "The Jimi Hendrix Experience's \"Foxy Lady\" outro"
+            }, {
+               "name" : "Paperback Writer",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "My Valentine"
+            }, {
+               "name" : "Nineteen Hundred and Eighty-Five",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "The Long and Winding Road",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Maybe I'm Amazed"
+            }, {
+               "name" : "I've Just Seen a Face",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "FourFiveSeconds",
+               "cover" : {
+                  "mbid" : "13e82936-d822-44db-a844-02c9d85e589f",
+                  "name" : "Rihanna and Kanye West and Paul McCartney",
+                  "sortName" : "Rihanna and Ye and McCartney, Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rihanna-and-kanye-west-and-paul-mccartney-5bd96fcc.html"
+               }
+            }, {
+               "name" : "We Can Work It Out",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Another Day"
+            }, {
+               "name" : "And I Love Her",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "name" : "Solo Acoustic on a Riser",
+            "song" : [ {
+               "name" : "Blackbird",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Here Today"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "New"
+            }, {
+               "name" : "Queenie Eye"
+            }, {
+               "name" : "Lady Madonna",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "All Together Now",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Lovely Rita",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Eleanor Rigby",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Being for the Benefit of Mr. Kite!",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Something",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Ob-La-Di, Ob-La-Da",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Band on the Run",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Back in the U.S.S.R.",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let It Be",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Live and Let Die",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Hey Jude",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Another Girl",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Hi, Hi, Hi",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "I Saw Her Standing There",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Yesterday",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Mull of Kintyre",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               },
+               "info" : "with the Paris Port Dover Pipe Band"
+            }, {
+               "name" : "Helter Skelter",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Golden Slumbers",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Carry That Weight",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "The End",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: 'Mull of Kintyre'",
+      "url" : "https://www.setlist.fm/setlist/paul-mccartney/2015/air-canada-centre-toronto-on-canada-13f45175.html"
+   }, {
+      "id" : "2bcb58ca",
+      "versionId" : "438c43cb",
+      "eventDate" : "01-04-2015",
+      "lastUpdated" : "2015-04-02T13:10:11.000+0000",
+      "artist" : {
+         "mbid" : "cd0c0611-5339-43c9-ac02-6b1dd4885ce7",
+         "name" : "Honeyblood",
+         "sortName" : "Honeyblood",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/honeyblood-23da4c83.html"
+      },
+      "venue" : {
+         "id" : "5bd62b10",
+         "name" : "Massey Hall",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/massey-hall-toronto-on-canada-5bd62b10.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fall Forever"
+            }, {
+               "name" : "Biro"
+            }, {
+               "name" : "(I'd Rather Be) Anywhere But Here"
+            }, {
+               "name" : "Bud"
+            }, {
+               "name" : "Choker"
+            }, {
+               "name" : "No Spare Key"
+            }, {
+               "name" : "Kissing on You"
+            }, {
+               "name" : "Braidburn Valley"
+            }, {
+               "name" : "Super Rat"
+            }, {
+               "name" : "Killer Bangs"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/honeyblood/2015/massey-hall-toronto-on-canada-2bcb58ca.html"
+   }, {
+      "id" : "23cb5caf",
+      "versionId" : "5307bbad",
+      "eventDate" : "01-04-2015",
+      "lastUpdated" : "2019-07-18T06:03:32.996+0000",
+      "artist" : {
+         "mbid" : "e5c7b94f-e264-473c-bb0f-37c85d4d5c70",
+         "name" : "Belle and Sebastian",
+         "sortName" : "Belle and Sebastian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/belle-and-sebastian-7bd6f25c.html"
+      },
+      "venue" : {
+         "id" : "5bd62b10",
+         "name" : "Massey Hall",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/massey-hall-toronto-on-canada-5bd62b10.html"
+      },
+      "tour" : {
+         "name" : "Spring 2015 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Cat With the Cream"
+            }, {
+               "name" : "I'm a Cuckoo"
+            }, {
+               "name" : "The Party Line"
+            }, {
+               "name" : "If She Wants Me"
+            }, {
+               "name" : "Allie"
+            }, {
+               "name" : "My Wandering Days Are Over"
+            }, {
+               "name" : "Perfect Couples",
+               "info" : "Extended Version"
+            }, {
+               "name" : "The Fox in the Snow"
+            }, {
+               "name" : "Electronic Renaissance"
+            }, {
+               "name" : "The Power of Three"
+            }, {
+               "name" : "Sukie in the Graveyard"
+            }, {
+               "name" : "Le pastie de la bourgeoisie"
+            }, {
+               "name" : "Simple Things"
+            }, {
+               "name" : "The Boy With the Arab Strap"
+            }, {
+               "name" : "Legal Man"
+            }, {
+               "name" : "This Is Just a Modern Rock Song",
+               "info" : "Just the first few lines"
+            }, {
+               "name" : "Get Me Away From Here, I'm Dying"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sleep the Clock Around"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/belle-and-sebastian/2015/massey-hall-toronto-on-canada-23cb5caf.html"
+   }, {
+      "id" : "7bfbd2c8",
+      "versionId" : "5304ff41",
+      "eventDate" : "02-03-2015",
+      "lastUpdated" : "2019-07-29T22:31:33.376+0000",
+      "artist" : {
+         "mbid" : "8fb5370b-9568-4b61-9da5-2aa12c9928db",
+         "name" : "Lizzo",
+         "sortName" : "Lizzo",
+         "disambiguation" : "American rapper, singer and actress",
+         "url" : "https://www.setlist.fm/setlists/lizzo-33d8989d.html"
+      },
+      "venue" : {
+         "id" : "5bd6dbdc",
+         "name" : "Sound Academy",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sound-academy-toronto-on-canada-5bd6dbdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lizzo/2015/sound-academy-toronto-on-canada-7bfbd2c8.html"
+   }, {
+      "id" : "2bcb9432",
+      "versionId" : "23813407",
+      "eventDate" : "02-03-2015",
+      "lastUpdated" : "2015-03-03T15:33:19.000+0000",
+      "artist" : {
+         "mbid" : "e36e78eb-3ace-4acd-882c-16789e700ab7",
+         "name" : "Sleater‐Kinney",
+         "sortName" : "Sleater‐Kinney",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sleaterkinney-3d6ed5b.html"
+      },
+      "venue" : {
+         "id" : "5bd6dbdc",
+         "name" : "Sound Academy",
+         "city" : {
+            "id" : "6167865",
+            "name" : "Toronto",
+            "state" : "Ontario",
+            "stateCode" : "ON",
+            "coords" : {
+               "lat" : 43.700113788,
+               "long" : -79.416304194
+            },
+            "country" : {
+               "code" : "CA",
+               "name" : "Canada"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/sound-academy-toronto-on-canada-5bd6dbdc.html"
+      },
+      "tour" : {
+         "name" : "No Cities to Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Price Tag"
+            }, {
+               "name" : "Fangless"
+            }, {
+               "name" : "Oh!"
+            }, {
+               "name" : "Start Together"
+            }, {
+               "name" : "What's Mine Is Yours"
+            }, {
+               "name" : "Ironclad"
+            }, {
+               "name" : "Bury Our Friends"
+            }, {
+               "name" : "Get Up"
+            }, {
+               "name" : "Surface Envy"
+            }, {
+               "name" : "No Anthems"
+            }, {
+               "name" : "Youth Decay"
+            }, {
+               "name" : "No Cities to Love"
+            }, {
+               "name" : "One Beat"
+            }, {
+               "name" : "A New Wave"
+            }, {
+               "name" : "Words and Guitar"
+            }, {
+               "name" : "Sympathy"
+            }, {
+               "name" : "Entertain"
+            }, {
+               "name" : "Jumpers"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Gimme Love"
+            }, {
+               "name" : "Dig Me Out"
+            }, {
+               "name" : "Let's Call It Love"
+            }, {
+               "name" : "Modern Girl"
+            }, {
+               "name" : "One More Hour"
+            }, {
+               "name" : "Turn It On"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sleaterkinney/2015/sound-academy-toronto-on-canada-2bcb9432.html"
+   }, {
+      "id" : "1357852d",
+      "versionId" : "g2ba650d2",
+      "eventDate" : "30-12-2013",
+      "lastUpdated" : "2024-06-17T12:47:27.166+0000",
+      "artist" : {
+         "mbid" : "13804e64-201a-42f0-80b0-510c457c840b",
+         "name" : "The Felice Brothers",
+         "sortName" : "Felice Brothers, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-felice-brothers-7bd6461c.html"
+      },
+      "venue" : {
+         "id" : "4bd60fca",
+         "name" : "Brooklyn Bowl",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-bowl-brooklyn-ny-usa-4bd60fca.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-felice-brothers/2013/brooklyn-bowl-brooklyn-ny-1357852d.html"
+   } ]
+}
